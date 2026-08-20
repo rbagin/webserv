@@ -2,3 +2,8 @@
 *
 # Except this file
 !.gitignore
+# ...and the static site fixtures the mock config serves
+!*/
+!*.html
+!*.css
+!*.py
