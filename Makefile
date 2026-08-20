@@ -26,7 +26,7 @@ CONFIG = MockConfig.cpp
 HTTPRESPONSE = HttpResponse.cpp
 
 # http request
-HTTPREQUEST = \
+HTTPREQUEST = HttpRequest.cpp
 
 # bytes, socket etc
 NETWORK = \
