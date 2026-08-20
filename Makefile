@@ -20,7 +20,7 @@ CORE = \
 CGI = \
 
 # config parsing
-CONFIG = \
+CONFIG = MockConfig.cpp
 
 # http response
 HTTPRESPONSE = HttpResponse.cpp
